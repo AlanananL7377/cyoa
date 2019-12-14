@@ -1,1 +1,0 @@
-Die from a fire because you don’t know how to cook.
