@@ -1,3 +1,3 @@
 Do you want to leave your house?
 [Yes](../yes)
-[No](../no)
+[No](../no.md)
