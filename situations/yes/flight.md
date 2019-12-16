@@ -4,4 +4,4 @@ You managed to out run the enemy but now have to look for resources. Do you wait
 
 [Look now](day.md)
 
-![landscape](landscape.jpg)
+![landscape](../../images/landscape.jpg)
