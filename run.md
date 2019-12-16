@@ -1,3 +1,3 @@
 Do you want to leave your house?
-[Yes](yes/warrior-archer.md)
-[No](no/no.md)
+[Yes](situations/yes/warrior-archer.md)
+[No](situations/no/no.md)
