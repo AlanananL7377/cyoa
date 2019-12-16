@@ -2,4 +2,4 @@ An army charges into your house and interrupts your nap. You run out the back do
 [Sword & Shield](../yes/sword.md)
 [Bow & Arrow](../yes/bow.md)
 
-![bed](../../images/Bed.png)
+![bed](../../images/swords.jpg)
