@@ -1,3 +1,3 @@
 The army kills you.
 
-[Click to restart](../run.md)
+[Click to restart](../../run.md)
