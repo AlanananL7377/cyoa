@@ -4,3 +4,5 @@ run or fight?
 [Run](flight.md)
 
 [Fight](fight.md)
+
+![fight](../../images/fight.jpg)

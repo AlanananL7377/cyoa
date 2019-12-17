@@ -3,3 +3,4 @@ It was a hard fight but you won with severe wounds. You need to seek medical att
 [Yes](help.md)
 
 [No](no-help.md)
+
