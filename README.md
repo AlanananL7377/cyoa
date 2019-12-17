@@ -1,4 +1,4 @@
-##Choose Your Own Adventure
+## Choose Your Own Adventure
 
 The purpose of creating this repository was to give the user the option to take their own adventure. While making this project we put the test linking files together and working in pairs. Both of these topics has been taught to us and by doing this project it's a great way to test us on it.
 
