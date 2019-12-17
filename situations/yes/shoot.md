@@ -1,1 +1,1 @@
-You shoot him but find out he was a commander of an army. The army is now after you and spend your whole life running 
+You shoot him but find out he was a commander of an army. The army is now after you and spend your whole life running.
