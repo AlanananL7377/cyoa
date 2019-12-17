@@ -4,4 +4,5 @@ Do you want to go back into bed or make breakfast?
 
 [breakfast](breakfast.md)
 
-1[]
+![bed](../../images/bed.jpg)
+![breakfast](../../images/breakfast.jpg)
