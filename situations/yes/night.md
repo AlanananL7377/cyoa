@@ -2,4 +2,4 @@ You wait until night and look for resources. Sadly Wolves attack you and eat you
 
 [Click to restart](../../run.md)
 
-![night](../../images/wolf.jpg)
+![wolf](../../images/wolf.jpg)
